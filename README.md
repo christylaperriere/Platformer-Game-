@@ -1,2 +1,2 @@
-# Platformer-Game-
-Final Platformer Game for Project 2 DIG Computer as a Medium 
+# JSPlatformer
+JS Platformer for DIG 3480C
